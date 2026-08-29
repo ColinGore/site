@@ -3,7 +3,7 @@ baseurl: "https://colingore.com"
 # baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: "G-94DB2LYD83"
 
 # UI configs
 title: "Photographs and Works on Paper by Colin Gore"
