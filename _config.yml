@@ -1,8 +1,8 @@
 # Base configs
 baseurl: "https://colingore.com"
 # baseurl: "" # Comment the above line and uncomment this to test the website locally
-image_fulls_loc: "/images/fulls-CG"
-image_thumbs_loc: "/images/thumbs-CG"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
 google_analytics: "G-94DB2LYD83"
 
 # UI configs
