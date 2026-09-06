@@ -104,7 +104,6 @@ layout: default
                 <section>
                     <h2>Get in touch</h2>
                     <form method="post" action="https://script.google.com/macros/s/AKfycbz4SipYAr50wwA1dJxFgWjgWwVL0I8HrEniyb1VVWOTCf88-JWW61XqUJdUOkHr9b3eoA/exec">
-                        <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
                         <div class="fields">
                             <div class="field half">
                                 <input type="text" name="name" id="name" placeholder="Name" />
@@ -124,8 +123,10 @@ layout: default
                              <!-- You can customize the thankyou message by editing the code below -->
                              <h2><em>Thanks</em> for contacting me! I will get back to you soon.
                              </h2>
-                            </div>
+                        </div>
                     </form>
+                      <!-- Submit the Form to Google Using "AJAX" -->
+                    <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
                 </section>
             </div>
         </div>
